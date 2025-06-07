@@ -7,7 +7,7 @@ E94121038_HW3.zip/
     ├── README.md
     ├── exercise1
     │   ├── cachesim.cc
-    │   └──  cachesim.h
+    │   └── cachesim.h
     └── exercise2
         ├── exercise2-1
         │   ├── matrix_transpose.c
