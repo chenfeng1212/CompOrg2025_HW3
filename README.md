@@ -2,8 +2,8 @@
 
 ## Directory Structure
 ```
-E94121038_HW2.zip/
-└──E94121038_HW2/
+E94121038_HW3.zip/
+└──E94121038_HW3/
     ├── README.md
     ├── exercise1
     │   ├── cachesim.cc
